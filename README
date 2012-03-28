@@ -1,10 +1,11 @@
 What you want is probably in the placemarkers.xls file.
 
-This creates simple colored circles for maps using ImageMagick, which
-can be converted into Base64 and embedded directly, as in the .xls or 
-.html file included with this package. The pins are sorta kinda along
-the lines of the Google Fusion Tables map markers with similar names.
+This recreates some basic map markers using ImageMagick.
 
-This project made much more sense before I took the second cold medicine
-with a Peroni.
+Base64 versions, which may be embedded directly into the HTML, are also included.
 
+The pins are sorta kinda long the lines of the Google Fusion Tables
+map markers with similar names.
+
+This project made much more sense when a second allergy medication was
+combined with Peroni.
